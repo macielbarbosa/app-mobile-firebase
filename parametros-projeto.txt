@@ -1,0 +1,7 @@
+---------------------------------------------------------
+Set project parameters to:
+---------------------------------------------------------
+Project name:  appmobilefirebase
+Company name:  ectufrn
+Package name:  com.ectufrn.appmobilefirebase
+---------------------------------------------------------

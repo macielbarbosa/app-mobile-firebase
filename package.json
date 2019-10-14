@@ -1,10 +1,10 @@
 {
-  "name": "RNFirebaseStarter",
+  "name": "appmobilefirebase",
   "version": "5.4.0",
   "private": true,
   "scripts": {
     "android-bundle": "ORG_GRADLE_PROJECT_bundleInDev=true npm run android",
-    "android": "react-native run-android",
+    "android": "react-native run-android --no-jetifier",
     "ios": "react-native run-ios --simulator=\"iPhone X\"",
     "apk": "cd android && ./gradlew assembleRelease",
     "rename": "node ./bin/rename.js",
